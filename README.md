@@ -1,6 +1,6 @@
 # textures-pack
 
-a minecraft 1.8 1.12 texture pack based on Looshy prism and modern 14 textures
+a minecraft 1.8-1.12 texture pack based on Looshy prism and modern 1.14 textures
 
 # installation
 
